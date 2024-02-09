@@ -21,3 +21,7 @@ Gerekli Modülleri İndirelim
 
 8. `python SonDepremlerV1`
 
+## Arayüz
+<img src="https://i.hizliresim.com/4u0nozn.png">
+<hr>
+<img src="https://i.hizliresim.com/isgrrkv.png">

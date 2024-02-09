@@ -1,5 +1,5 @@
 # SonDepremler
-Türkiye'de Anlık Canlı Depremleri izlemenize olanak sağlayan masaüstü program.
+Türkiye'deki Depremleri canlı izle 
 
 ## Kurulum
 

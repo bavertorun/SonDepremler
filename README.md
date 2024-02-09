@@ -25,3 +25,7 @@ Gerekli Modülleri İndirelim
 <img src="https://i.hizliresim.com/4u0nozn.png">
 <hr>
 <img src="https://i.hizliresim.com/isgrrkv.png">
+<hr>
+<a href="https://www.buymeacoffee.com/bawertorun" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*VJdus0nKuy1uNoByh5BN3w.png" height="50px"> 
+</a>

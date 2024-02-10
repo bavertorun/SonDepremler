@@ -2,24 +2,15 @@
 Türkiye'deki Depremleri canlı izle 
 
 ## Kurulum
+1. `git clone https://github.com/bavertorun/SonDepremler.git`
 
-Gerekli Modülleri İndirelim
+2. `cd SonDepremler`
 
-1. `pip install tkinter`
+3. `python SonDepremlerV1`
 
-2. `pip install customtkinter`
+4. `pip install -r requirements.txt`
 
-3. `pip install tkintermapview`
-
-4. `pip install webbrowser`
-
-5. `pip install requests`
-
-6. `git clone https://github.com/bavertorun/SonDepremler.git`
-
-7. `cd SonDepremler`
-
-8. `python SonDepremlerV1`
+5. `python main.py` 
 
 ## Arayüz
 <img src="https://i.hizliresim.com/4u0nozn.png">

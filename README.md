@@ -18,7 +18,8 @@ Türkiye'deki Depremleri canlı izleyebileceğiniz Python Uygulaması.
 <img src="https://i.hizliresim.com/isgrrkv.png">
 
 ## Kaynak
-Kullanılan veriler Boğaziçi Üniversitesi Kandilli Rasathanesinden alınmıştır.
+Kullanılan veriler <a target="_blank" href="http://www.koeri.boun.edu.tr/scripts/lst1.asp">Boğaziçi Üniversitesi Kandilli Rasathanesi</a>nden alınmıştır.
+
 Kulllanılan APİ: <a target="_blank" href="https://github.com/orhanayd/kandilli-rasathanesi-api">kandilli-rasathanesi-api</a>
 <hr>
 <a target="_blank" href="https://www.buymeacoffee.com/bawertorun"><img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*VJdus0nKuy1uNoByh5BN3w.png" height="50px"></a>

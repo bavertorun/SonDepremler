@@ -10,7 +10,12 @@ Türkiye'deki Depremleri canlı izleyebileceğiniz Python Uygulaması.
 
 4. `pip install -r requirements.txt`
 
-5. `python main.py` 
+5. `python main.py`
+
+## Program olarak indir
+İndirme Linki: `https://bavertorun.com.tr/SonDepremler/SonDepremlerV1.zip`
+zip den çıkardıktan sonra  uygulamanın olduğu klasörde `pip install -r requirements.txt` diyerek gerekli modülleri indirebilirsiniz. Bu işlemi önceden yaptıysanız tekrar yapmanıza gerek yoktur.
+Not: Uygulamayla aynı dizinde olan `Assets` dosyasının uygulamayla aynı dizinde olmasına özen gösterin yoksa uygulama çalışmayacaktır.
 
 ## Arayüz
 <img src="https://i.hizliresim.com/4u0nozn.png">

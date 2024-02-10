@@ -1,5 +1,5 @@
 # SonDepremler
-Türkiye'deki Depremleri canlı izle 
+Türkiye'deki Depremleri canlı izleyebileceğiniz Python Uygulaması.
 
 ## Kurulum
 1. `git clone https://github.com/bavertorun/SonDepremler.git`
